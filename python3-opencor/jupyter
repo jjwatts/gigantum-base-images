@@ -1,0 +1,3 @@
+#!/bin/bash
+cp /opt/gigantum-fix/__init__.py /mnt/share/jupyterhooks/
+/opt/conda/bin/jupyter "$@"
