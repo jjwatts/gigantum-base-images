@@ -1,5 +1,5 @@
 id: "python3-figantleaf"
-name: "Python3 with OpenCOR support"
+name: "Python3 Data Science with figantleaf modules"
 description: "Gigantum Python3 Data science base image enhanced with Figantleaf requirements and modules."
 readme: "Gigantum Python3 Data science base image enhanced with Figantleaf requirements and modules"
 revision: 0
